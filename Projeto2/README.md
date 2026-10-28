@@ -1,2 +1,2 @@
-# Projeto de IoT 1: Prática com MQTT
+# Projeto de IoT 2: Gateway
 ## Projeto realizado em dupla com: Luiza Bruna Apolinario Ribeiro
